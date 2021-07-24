@@ -3,4 +3,4 @@ this is 2nd line in git
 this is 2nd line in github
 this is 4th line in local
 this is for merge conflict using fetch
-
+for fetch
